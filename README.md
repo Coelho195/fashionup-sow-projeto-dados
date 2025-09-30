@@ -15,7 +15,7 @@ O documento SOW define:
 - Cronograma
 
 📂 Arquivo disponível neste repositório:
-- `SOW_FashionUp.pdf` → Documento final do SOW
+- 'Scope-Of-Work-FashionUp.pdf' → Documento final do SOW
 
 ## Objetivo
 Este repositório faz parte do meu portfólio de dados.  
